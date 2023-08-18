@@ -1,4 +1,4 @@
-# Análise de emoções em tweets de resposta a posts do ex-presidente do Brasil
+# Análise de emoções em tweets de resposta a posts do ex-presidente do Brasil Jair Messias Bolsonaro
 
 <p align="justify">
 Neste repositório estão armazenados os códigos e recursos empregados na pesquisa de TCC conduzida pela aluna Fernanda Malheiros Assi. O estudo consistiu na aplicação do modelo <a href="https://github.com/Luzo0/GoEmotions_portuguese">GoEmotions adaptado para o Português</a>, para identificar as emoções presentes nas respostas a posts do ex-presidente do Brasil, Jair Bolsonaro. A Figura abaixo ilustra o pipeline geral adotado no trabalho. A investigação foi segmentada em três módulos principais: extração dos <em>tweets</em>, pré-processamento dos dados e inferência de emoções dos <em>tweets</em> pelo GoEmotions para Português. Adicionalmente, foram conduzidas análises exploratórias dos dados resultantes da aplicação do GoEmotions, bem como uma análise linguística dos erros do modelo para as três emoções mais proeminentes no córpus: Raiva, Curiosidade e Admiração.
